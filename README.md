@@ -24,3 +24,15 @@ the user in PDF Format using pdf_mail library imported from send_pdf.
 
 ● Explored various stages of Software Development Life Cycle including SRS
 Preparation and designing of UML Diagrams and Class Diagrams.
+
+![Screenshot (107)](https://github.com/debaditya4421/SWE_Engg_BookShopAutomation-Software/assets/103170797/6d6431ba-39b8-462f-8952-20b531132b50)
+![Screenshot (108)](https://github.com/debaditya4421/SWE_Engg_BookShopAutomation-Software/assets/103170797/9e3f27ec-dfae-494a-b1bc-2c57f1fb8c62)
+![Screenshot (109)](https://github.com/debaditya4421/SWE_Engg_BookShopAutomation-Software/assets/103170797/246dce6d-4dd7-4879-bf18-14449e1b7a80)
+![Screenshot (110)](https://github.com/debaditya4421/SWE_Engg_BookShopAutomation-Software/assets/103170797/eb2e0354-befd-429e-be75-2a26061275d9)
+![Screenshot (111)](https://github.com/debaditya4421/SWE_Engg_BookShopAutomation-Software/assets/103170797/277e54a9-b0e9-4f55-84e2-34d25544c123)
+
+
+
+
+
+
