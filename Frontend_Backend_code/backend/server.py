@@ -44,10 +44,7 @@ app = Flask(__name__)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:Babai#123@localhost/bas_sw'
 
-<<<<<<< Updated upstream
-=======
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:mazaqwer7531%40@localhost/bas_sw'
->>>>>>> Stashed changes
 
 errmsg = ""
 iserr = 0
